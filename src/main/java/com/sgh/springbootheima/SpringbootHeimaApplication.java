@@ -13,6 +13,7 @@ public class SpringbootHeimaApplication {
         log.info("启动成功");
         log.info("启动成功哈哈");
         log.info("启动成功哈哈,hot-fix");
+        log.info("启动成功哈哈,hot-fix2");
     }
 
 }
