@@ -12,6 +12,7 @@ public class SpringbootHeimaApplication {
         SpringApplication.run(SpringbootHeimaApplication.class, args);
         log.info("启动成功");
         log.info("启动成功哈哈");
+        log.info("启动成功哈哈,hot-fix");
     }
 
 }
