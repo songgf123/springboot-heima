@@ -11,6 +11,7 @@ public class SpringbootHeimaApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootHeimaApplication.class, args);
         log.info("启动成功");
+        log.info("启动成功哈哈");
     }
 
 }
